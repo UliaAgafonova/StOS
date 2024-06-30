@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\bin\Debug\StaffOfSamokat.exe.config
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\bin\Debug\StaffOfSamokat.exe
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\bin\Debug\StaffOfSamokat.pdb
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.AuthorizationForm.resources
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.Properties.Resources.resources
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.csproj.GenerateResource.cache
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.exe
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.pdb
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.RegistrationForm.resources
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.ManagerMainForm.resources
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.UserMainForm.resources
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.InformationForm.resources
+C:\Users\1\Desktop\PrPractice\StaffOfSamokat\StaffOfSamokat\obj\Debug\StaffOfSamokat.ResumeForm.resources
